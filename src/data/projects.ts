@@ -6,7 +6,7 @@ export const projects: Project[] = [
     title: 'Grid Based Dispense System',
     description:
       'The project involved designing and implementing a grid-based vending machine system capable of precise positioning and dispensing operations. The system was controlled through a keypad interface to navigate a 3x4 grid, with integrated motorized mechanisms for product selection and dispensing.',
-    image: 'https://storage.googleapis.com/gridpicture/image.jpg',
+    image: 'https://www.dropbox.com/scl/fi/3ugagbnaf68wetk5y1je8/image.jpg?rlkey=o17fyje7f7ygxkakk32qkkp0s&st=wn8akqzv&raw=1',
     technologies: ['Motor Control', 'Arduino', 'Prototyping', 'Solidworks'],
     duration: '2 months',
     teamSize: 4,
