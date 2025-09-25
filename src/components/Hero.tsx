@@ -32,7 +32,7 @@ export function Hero() {
         </div>
         <div className="relative">
           <img 
-            src="https://storage.googleapis.com/gridpicture/IMG_5901.jpg"
+            src="https://www.dropbox.com/scl/fi/ulzsxev6x4vdk0504hk3d/IMG_9047.jpg?rlkey=95q4d31aqrnrg1kc46s7fq21a&st=wpdidqe9&raw=1"
             alt="Developer workspace"
             className="rounded-lg shadow-xl"
           />

@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: 'Point-to-Point Communication Device',
     description:
       'This project aimed to create a light-based communication device capable of transmitting messages between two points with high accuracy and speed. The system utilized a 5 mW laser and a phototransistor to establish a reliable communication channel.',
-    image: 'https://storage.googleapis.com/gridpicture/phAoLRCYCLnLQlNi15D5ge9UMOvi-Eeuu-iZ0iCZjHxs6R5dr_yT6a-XDTqB5b8KFqVd4Uwc9t2sulDH9vmSkoOuN0mUurGtWmXrNQLW2Qu3xBc3ZSrzYkd0Rpjar3f-hM-SDYyInbA6-KPGVK2XxqA.png',
+    image: 'https://www.dropbox.com/scl/fi/8i7ncmtjlrrlcna8h88yf/sadsadsadsadada-1.png?rlkey=r2tani6x2ulclkkz51mefnpeg&st=vk9ln5c6&raw=1',
     video: 'https://storage.googleapis.com/gridpicture/Point-to-Point%20Laser%20Communication%20Device%20Testing.mp4',
     technologies: [
       'Circuit Design',
@@ -58,7 +58,7 @@ export const projects: Project[] = [
     title: 'Gasket Machining Project',
     description:
       'This project involved fabricating a precise PVC gasket to fit a mechanical block using advanced manufacturing techniques. It began with detailed measurements and CAD modeling, followed by generating G-code for CNC milling. The final product was tested to ensure exact fitment and alignment using locating pins.',
-    image: 'https://storage.googleapis.com/gridpicture/Screenshot%202024-12-09%20003049.png',
+    image: 'https://www.dropbox.com/scl/fi/mx2mq7ixmza3rspj5bevx/Screenshot-2024-12-09-003049.png?rlkey=j917mpnrqdm8o6wkciq8u45qj&st=n7mq0g2m&raw=1',
     technologies: [
       'Tolerancing',
       'HSMWorks',
@@ -87,7 +87,7 @@ export const projects: Project[] = [
     title: 'Temperature Monitor',
     description:
       'A compact and efficient device designed to measure and display ambient temperature with high precision. The system incorporates an LCD for real-time readings and features LED/buzzer alerts to indicate specific temperature thresholds. Powered by an optimized energy source, the device can function continuously for extended periods.',
-    image: 'https://storage.googleapis.com/gridpicture/Screenshot%202024-12-09%20002706.png',
+    image: 'https://www.dropbox.com/scl/fi/xulytmo3kujx1ohb9dfz3/TtxnUJ3-Imgur.png?rlkey=pb4rrqa9he9htm7ay7tgzcs80&st=z3l0rgrq&raw=1',
     technologies: [
       'Arduino Programming',
       'Circuit Design',
@@ -115,7 +115,7 @@ export const projects: Project[] = [
     title: 'Cart Stability Prototype',
     description:
       'This project focused on designing and simulating and prototyping a wheeled cart capable of transporting a 12-inch vertical bar across a 5-foot track without toppling. Using SolidWorks, the cart, bar, and platform were modeled as a CAD assembly. The design was then tested using a motion simulation to evaluate its stability under various conditions.',
-    image: 'https://storage.googleapis.com/gridpicture/IMG_6667.jpg',
+    image: 'https://www.dropbox.com/scl/fi/v8xiopru93aokg536krjc/IMG_6667.jpg?rlkey=np0q3o31xwens2nrz6yu5jmx4&st=35hkt9sd&raw=1',
     video: 'https://storage.googleapis.com/gridpicture/ouakani%20wheels.mp4',
     technologies: [
       'SolidWorks',
