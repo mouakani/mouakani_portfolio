@@ -34,7 +34,7 @@ export function Hero() {
           <img 
             src="https://www.dropbox.com/scl/fi/wwo1kb1f7so4scc6jstud/Ouakani_Headshot.jpg?rlkey=ynd4toxam54rkgkhaqyrpic0v&st=1iwgf6td&raw=1"
             alt="Developer workspace"
-            className="rounded-lg shadow-xl max-w-xs w-full h-auto ml-2 md:-ml-15"
+            className="rounded-lg shadow-xl max-w-xs w-full h-auto ml-2 md:-ml-50"
           />
         </div>
       </div>
