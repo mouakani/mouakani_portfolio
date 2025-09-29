@@ -10,7 +10,7 @@ export function CareerInterests() {
 
         <div className="max-w-4xl mx-auto bg-gray-50 rounded-lg p-8 shadow-lg">
           <p className="text-gray-600 leading-relaxed text-lg text-center">
-            I am a junior in mechanical engineering at Boston University. I have a strong passion for design and manufacturing, and I use those skills to help me create innovative solutions. My work spans from conceptualizing systems to bringing them to life through precise fabrication and testing. I take a hands-on, problem-solving approach to engineering challenges, striving to merge creativity with technical expertise to produce solutions that are both functional and efficient.
+            I am a senior in mechanical engineering at Boston University. I have a strong passion for design and manufacturing, and I use those skills to help me create innovative solutions. My work spans from conceptualizing systems to bringing them to life through precise fabrication and testing. I take a hands-on, problem-solving approach to engineering challenges, striving to merge creativity with technical expertise to produce solutions that are both functional and efficient.
           </p>
         </div>
       </div>

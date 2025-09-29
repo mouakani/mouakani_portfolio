@@ -30,11 +30,11 @@ export function Hero() {
             </a>
           </div>
         </div>
-        <div className="relative">
+        <div className="relative flex justify-center md:justify-end">
           <img 
-            src="https://www.dropbox.com/scl/fi/ulzsxev6x4vdk0504hk3d/IMG_9047.jpg?rlkey=95q4d31aqrnrg1kc46s7fq21a&st=wpdidqe9&raw=1"
+            src="https://www.dropbox.com/scl/fi/wwo1kb1f7so4scc6jstud/Ouakani_Headshot.jpg?rlkey=ynd4toxam54rkgkhaqyrpic0v&st=1iwgf6td&raw=1"
             alt="Developer workspace"
-            className="rounded-lg shadow-xl"
+            className="rounded-lg shadow-xl max-w-xs w-full h-auto"
           />
         </div>
       </div>
