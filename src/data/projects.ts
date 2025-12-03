@@ -145,7 +145,7 @@ export const projects: Project[] = [
     title: 'Torque Amplifier',
     description:
       'An advanced mechanical project focused on designing and implementing a sophisticated gearbox assembly created to amplify torque. The system was engineered to efficiently convert a high rpm input to a high torque output, utilizing a carefully calculated gear train powered by a 12V motor. The project emphasized precise gear relationships and input and output considerations to ensure real-world functionality.',
-    image: 'https://www.dropbox.com/scl/fi/77xqrp92gwb8j9anda4aw/unnamed.jpg?rlkey=dkpdva0mgpv23vhr0cos23d5c&st=i2ogymas&raw=1',
+    image: 'https://www.dropbox.com/scl/fi/4bv7zd95bldql1ktsv9b8/Screenshot-2025-12-03-at-1.06.07-AM.png?rlkey=boef2zgedzi43uw89nby3ikxm&st=xqk4r3mk&raw=1',
     technologies: [
       'SolidWorks',
       'Mechanical Design',
