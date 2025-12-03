@@ -30,7 +30,7 @@ export function Hero() {
             </a>
           </div>
         </div>
-        <div className="relative flex justify-center md:justify-end">
+        <div className="relative flex justify-center md:justify-center">
           <img 
             src="https://www.dropbox.com/scl/fi/wwo1kb1f7so4scc6jstud/Ouakani_Headshot.jpg?rlkey=ynd4toxam54rkgkhaqyrpic0v&st=1iwgf6td&raw=1"
             alt="Developer workspace"
