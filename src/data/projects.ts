@@ -6,7 +6,7 @@ export const projects: Project[] = [
     title: 'Grid Based Dispense System',
     description:
       'The project involved designing and implementing a grid-based vending machine system capable of precise positioning and dispensing operations. The system was controlled through a keypad interface to navigate a 3x4 grid, with integrated motorized mechanisms for product selection and dispensing.',
-    image: 'https://www.dropbox.com/scl/fi/3ugagbnaf68wetk5y1je8/image.jpg?rlkey=o17fyje7f7ygxkakk32qkkp0s&st=wn8akqzv&raw=1',
+    image: 'https://www.dropbox.com/scl/fi/9heog5ge7br5hx42y6dbm/Screenshot-2025-12-03-001557.png?rlkey=icn05xvd3hlgeshb5d9xj83m6&st=z52ci3lr&raw=1',
     technologies: ['Motor Control', 'Arduino', 'Prototyping', 'Solidworks'],
     duration: '2 months',
     teamSize: 4,
@@ -29,8 +29,8 @@ export const projects: Project[] = [
     title: 'Point-to-Point Communication Device',
     description:
       'This project aimed to create a light-based communication device capable of transmitting messages between two points with high accuracy and speed. The system utilized a 5 mW laser and a phototransistor to establish a reliable communication channel.',
-    image: 'https://www.dropbox.com/scl/fi/8i7ncmtjlrrlcna8h88yf/sadsadsadsadada-1.png?rlkey=r2tani6x2ulclkkz51mefnpeg&st=vk9ln5c6&raw=1',
-    video: 'https://storage.googleapis.com/gridpicture/Point-to-Point%20Laser%20Communication%20Device%20Testing.mp4',
+    image: 'https://www.dropbox.com/scl/fi/91jrd5fp7lm0z25mboua3/IMG_5028.jpg?rlkey=2wb0s6rfq1655ifjzjiwhfswk&st=ngjfa2wa&raw=1',
+    video: 'https://www.dropbox.com/scl/fi/966zrm8i9vtgtedfhskpd/IMG_5048-2.mp4?rlkey=mklebm08k69i4ocygjtgao883&st=vtw6xt9p&raw=1',
     technologies: [
       'Circuit Design',
       'Laser Cutting',
@@ -87,7 +87,7 @@ export const projects: Project[] = [
     title: 'Temperature Monitor',
     description:
       'A compact and efficient device designed to measure and display ambient temperature with high precision. The system incorporates an LCD for real-time readings and features LED/buzzer alerts to indicate specific temperature thresholds. Powered by an optimized energy source, the device can function continuously for extended periods.',
-    image: 'https://www.dropbox.com/scl/fi/xulytmo3kujx1ohb9dfz3/TtxnUJ3-Imgur.png?rlkey=pb4rrqa9he9htm7ay7tgzcs80&st=z3l0rgrq&raw=1',
+    image: 'https://www.dropbox.com/scl/fi/77xqrp92gwb8j9anda4aw/unnamed.jpg?rlkey=dkpdva0mgpv23vhr0cos23d5c&st=ymo7w9n5&raw=1',
     technologies: [
       'Arduino Programming',
       'Circuit Design',
@@ -144,8 +144,8 @@ export const projects: Project[] = [
     id: 6,
     title: 'Gearbox Assembly',
     description:
-      'An advanced mechanical project focused on designing and implementing a sophisticated gearbox assembly in SolidWorks. The system was engineered to efficiently rotate an object attached to the end of a rod, utilizing a carefully calculated gear train powered by dual 12V motors. The project emphasized precise gear mate relationships to ensure real-world functionality.',
-    image: 'https://storage.googleapis.com/gridpicture/image%20(1).png',
+      'An advanced mechanical project focused on designing and implementing a sophisticated gearbox assembly created to amplify torque. The system was engineered to efficiently convert a high rpm input to a high torque output, utilizing a carefully calculated gear train powered by a 12V motor. The project emphasized precise gear relationships and input and output considerations to ensure real-world functionality.',
+    image: 'https://www.dropbox.com/scl/fi/77xqrp92gwb8j9anda4aw/unnamed.jpg?rlkey=dkpdva0mgpv23vhr0cos23d5c&st=i2ogymas&raw=1',
     technologies: [
       'SolidWorks',
       'Mechanical Design',
@@ -160,13 +160,44 @@ export const projects: Project[] = [
     completedDate: 'Fall 2023',
     category: 'CAD Projects',
     features: [
-      'Dual 12V motor power system',
+      '12V motor power system',
       'Precision-engineered gear train',
       'Optimized gear ratios for efficient power transfer',
       'Integrated rod attachment mechanism',
       'Complete assembly with precise gear mates'
     ],
     challenges:
-      'The primary challenge was establishing precise gear mate relationships that would translate effectively to real-world applications. This required careful consideration of gear ratios, spacing, and mechanical tolerances to ensure smooth operation and optimal power transfer through the system.'
+      'The primary challenge was establishing precise gear relationships that would translate effectively and last long. This required careful consideration of gear ratios, spacing, and mechanical tolerances to ensure smooth operation and optimal power transfer through the system.'
+  }
+  ,
+  {
+    id: 7,
+    title: 'Mechanically Actuated Profilometer (MAP)',
+    description:
+      'A fully automated profilometer carriage system designed to measure surface roughness along the full 5-foot length of polished stainless-steel tubes. The MAP provides consistent Ra/Rz data to verify that the polishing machine meets Vita Needle’s strict surface finish standards.',
+    image: 'https://www.dropbox.com/scl/fi/0jg1tq5e6bcr0i434uz46/Screenshot-2025-12-03-000546.png?rlkey=xkah97p88kxq6pma8gn5lqxjw&st=2ljnwfm0&raw=1',
+    video: 'LINK_TO_VIDEO_IF_YOU_HAVE_ONE',
+    technologies: [
+      'Stepper Motor Control',
+      'Linear Motion Systems',
+      'Microcontroller Programming',
+      'Mechanical Assembly',
+      'Precision Measurement'
+    ],
+    duration: '4 months',
+    teamSize: 5,
+    role: 'Mechanical Systems Engineer',
+    difficulty: 4,
+    completedDate: 'Fall 2025',
+    category: 'Engineering Core',
+    features: [
+      'Automated 5-foot scanning for full-length surface roughness measurement.',
+      'Rigid linear rail and carriage system for smooth, vibration-free motion.',
+      'Fully integrated electronics using stepper drivers and control board.',
+      'Accurate Ra/Rz collection for validating polishing machine performance.',
+      'Ready for industrial integration and long-run testing.'
+    ],
+    challenges:
+      'Designing a stable, low-friction carriage; tuning motion parameters for consistent speed; ensuring smooth integration between mechanical and electrical components.'
   }
 ];
